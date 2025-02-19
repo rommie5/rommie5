@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rommie5
+- 👋 Hi, I’m rommie5
 - 👀 I’m interested in programming and tech related activities
 - 🌱 I’m currently learning anddroid and flutter.
 - 💞️ I’m looking to collaborate on android development and POS.
